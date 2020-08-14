@@ -34,7 +34,7 @@ I am a highly motivated and organised individual, who demonstrates the qualities
 <img align="left" alt="Netfliy" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />
 <img align="left" alt="Heroku" height="50px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
 
-<br><br>
+<br><br><br><br>
 
 - 🔭 I’m currently working on a few projects, such as my personal website and a chrome extension
 - 🌱 I’m currently learning Tenserflow, YOLO and DynamioDB
