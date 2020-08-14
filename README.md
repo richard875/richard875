@@ -1,11 +1,8 @@
 # Hi 👋 I am Richard!
 
-University of Auckland Computer Science sophomore student. Intern / Junior Developer at yourcar.co.nz
+University of Auckland Computer Science sophomore student. Intern / Junior Developer at <a herf="https://yourcar.co.nz/"><b>yourcar.co.nz</b></a>
 
 <img src="https://raw.githubusercontent.com/richard875/richard875/master/banner.gif">
-
-University of Auckland Computer Science sophomore student. Intern / Junior Developer at yourcar.co.nz
-
 <br/>
 I am a highly motivated and organised individual, who demonstrates the qualities of independent and critical thinking through my university, work, and hobby life. With a strong attention to detail, I consistently meet personal and school goals on time and to an excellent standard.
 
