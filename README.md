@@ -19,20 +19,20 @@ I am a highly motivated and organised individual, who demonstrates the qualities
 
 ## Skills
 
-<img alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
-<img alt="Typescript" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
-<img alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
-<img alt="HTML" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
-<img alt="CSS" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
-<img alt="Expo" height="50px" src="https://cdn.svgporn.com/logos/expo.svg" />
-<img alt="DynamioDB" height="50px" src="https://cdn.svgporn.com/logos/aws.svg" />
-<img alt="AWS" height="50px" src="https://cdn.svgporn.com/logos/aws-rds.svg" />
-<img alt="Adobe XD" height="50px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
-<img alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
-<img alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+<img align="left" alt="Javascript" height="50px" src="https://cdn.svgporn.com/logos/javascript.svg" />
+<img align="left" alt="Typescript" height="50px" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />
+<img align="left" alt="Python" height="50px" src="https://cdn.svgporn.com/logos/python.svg" />
+<img align="left" alt="HTML" height="50px" src="https://cdn.svgporn.com/logos/html-5.svg" />
+<img align="left" alt="CSS" height="50px" src="https://cdn.svgporn.com/logos/css-3.svg" />
+<img align="left" alt="Expo" height="50px" src="https://cdn.svgporn.com/logos/expo.svg" />
+<img align="left" alt="DynamioDB" height="50px" src="https://cdn.svgporn.com/logos/aws.svg" />
+<img align="left" alt="AWS" height="50px" src="https://cdn.svgporn.com/logos/aws-rds.svg" />
+<img align="left" alt="Adobe XD" height="50px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
+<img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
+<img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
 
-<img alt="Netfliy" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />
-<img alt="Heroku" height="50px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
+<img align="left" alt="Netfliy" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />
+<img align="left" alt="Heroku" height="50px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
 
 <br><br>
 
@@ -45,13 +45,8 @@ I am a highly motivated and organised individual, who demonstrates the qualities
 - 🤖 I currently have an internship at yourcar.co.nz in Auckland, NZ
   <br><br>
 
-<a>
-  <img alt="Richard's github stats" align="left" src="https://github-readme-stats.vercel.app/api?username=richard875&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=solarized-light" />
-</a>
-<a>
-  <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richard875&layout=compact" />
-</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=richard875&hide=contribs,prs,stars&count_private=true&show_icons=true&theme=solarized-light)
 
-<br><br><br><br><br><br><br><br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richard875&layout=compact)](https://github.com/richard875/github-readme-stats)
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
