@@ -1,6 +1,6 @@
 # Hi 👋 I am Richard!
 
-University of Auckland Computer Science sophomore student. Intern / Junior Developer at <a herf="https://yourcar.co.nz/"><b>yourcar.co.nz</b></a>
+University of Auckland Computer Science sophomore student. Intern / Junior Developer at <b>[yourcar.co.nz](https://yourcar.co.nz/)</b>
 
 <img src="https://raw.githubusercontent.com/richard875/richard875/master/banner.gif">
 <br/>
