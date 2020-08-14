@@ -2,7 +2,7 @@
 
 University of Auckland Computer Science sophomore student. Intern / Junior Developer at yourcar.co.nz
 
-<img src="banner.gif">
+<img src="https://raw.githubusercontent.com/richard875/richard875/master/banner.gif">
 
 University of Auckland Computer Science sophomore student. Intern / Junior Developer at yourcar.co.nz
 
@@ -30,8 +30,6 @@ I am a highly motivated and organised individual, who demonstrates the qualities
 <img align="left" alt="Adobe XD" height="50px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align="left" alt="React/React Native" height="50px" src="https://cdn.svgporn.com/logos/react.svg" />
 <img align="left" alt="Git" height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg" />
-
-<img align="left" alt="Netfliy" height="50px" src="https://cdn.svgporn.com/logos/netlify.svg" />
 <img align="left" alt="Heroku" height="50px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
 
 <br><br><br><br>
