@@ -1,6 +1,6 @@
 # Hi 👋 I am Richard!
 
-University of Auckland Computer Science sophomore student. Intern / Junior Developer at <b>[yourcar.co.nz](https://yourcar.co.nz/)</b>
+richard-lee.com • 3rd (junior) year CS undergrad @ The University of Auckland • Software Engineer @ <b>[Canary data solutions Ltd](https://canary.co.nz/)</b>
 
 <img src="https://raw.githubusercontent.com/richard875/richard875/master/banner.gif">
 <br/>
@@ -8,7 +8,7 @@ I am a highly motivated and organised individual, who demonstrates the qualities
 
 ## Contact
 
-[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://richardlee.dev/)
+[<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://richard-lee.com/)
 [<img src ="https://img.shields.io/badge/Email-Richard_875@me.com-%23.svg?&color=yellow&style=for-the-badge&logo=&logoColor=white%22">](mailto:richard_875@me.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/richard875/)
 ![Repos Badge](https://badges.pufler.dev/repos/richard875?style=for-the-badge&color=red)
