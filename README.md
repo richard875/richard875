@@ -48,7 +48,7 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on a Apple mail tracker with Swift, Go and Svelte
+- 🔭 I’m currently working on an Apple mail tracker with Swift, Go and Svelte
 - 🌱 I’m currently learning Go and MongoDB
 - 👯 I’m looking to collaborate...
 - ⚡ Fun fact: I love motor racing (Especially Formula 1 🏎️)
