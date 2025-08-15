@@ -3,4 +3,4 @@
 [<img src="https://img.shields.io/badge/Email-email%20me-%23.svg?color=D9415F&style=for-the-badge&logoColor=white" />](mailto:hello@richardeverley.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/richard875/)
 
-<img src="https://raw.githubusercontent.com/richard875/richard875/master/banner.gif">
+<img src="https://raw.githubusercontent.com/richard875/richard875/refs/heads/master/banner.gif">
